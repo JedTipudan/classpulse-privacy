@@ -1,3 +1,2 @@
 version=1.0.2
-download=https://appdistribution.firebase.google.com/testerapps/1:713652566955:android:7a853869cdcc1e5e7970ee/releases/7b3mfr5pf42u8
-notes=Bug fixes and improvements
+https://drive.google.com/file/d/1wPc9Bj8f93dWsPypyXPrrsMknWtLIveA/view?usp=sharing=Bug fixes and improvements
