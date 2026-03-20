@@ -1,3 +1,3 @@
 version=1.0.2
-download=https://your-firebase-app-distribution-link-here
-notes=First release - schedules, notifications, notepad and Google Drive backup
+download=https://appdistribution.firebase.google.com/testerapps/1:713652566955:android:7a853869cdcc1e5e7970ee/releases/7b3mfr5pf42u8
+notes=Bug fixes and improvements
