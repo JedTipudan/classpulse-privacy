@@ -1,5 +1,5 @@
 version=1.1.1
-download=https://jedtipudan.github.io/classpulse-privacy/
+download=https://github.com/JedTipudan/classpulse-privacy/releases/download/v1.1.1/app-release.apk
 - ✨ Completely redesigned the UI with glassmorphism
 - 🎨 Added dynamic gradients and new Outfit font
 - 🐛 Fixed icons and buttons being invisible in light mode
