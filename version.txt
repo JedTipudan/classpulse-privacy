@@ -1,3 +1,7 @@
-version=1.1.0
-download=https://github.com/JedTipudan/classpulse-privacy/releases/download/v1.1.0/app-release.apk
-notes=Fix Calendar add font on notepad
+version=1.1.1
+download=https://jedtipudan.github.io/classpulse-privacy/
+- ✨ Completely redesigned the UI with glassmorphism
+- 🎨 Added dynamic gradients and new Outfit font
+- 🐛 Fixed icons and buttons being invisible in light mode
+- 📝 Overhauled the notepad to match the new aesthetic
+- PLEASE MAKE A BACKUP FIRST BEFORE UPDATING THE APP THANK YOU
