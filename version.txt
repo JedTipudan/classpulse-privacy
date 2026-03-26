@@ -1,7 +1,7 @@
-version=1.1.3
-download=https://github.com/JedTipudan/classpulse-privacy/releases/download/v1.1.3/app-release.apk
+version=1.1.4
+download=https://github.com/JedTipudan/classpulse-privacy/releases/download/v1.1.4/app-release.apk
 - ✨ Completely redesigned the UI with glassmorphism
-- 🎨 Added dynamic gradients and new Outfit font
+- 🎨 Added spelling grammar checker and ai writing assistant
 - 🐛 Fixed icons and buttons being invisible in light mode
 - 📝 Overhauled the notepad to match the new aesthetic
 - PLEASE MAKE A BACKUP FIRST BEFORE UPDATING THE APP THANK YOU
