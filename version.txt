@@ -1,8 +1,7 @@
-version=1.2.0
-download=https://github.com/JedTipudan/classpulse-privacy/releases/download/v1.2.0/app-release.apk
-- 📷 Scan COR/schedule photo — AI reads your timetable automatically
-- 📳 Vibrate-only mode — silent reminders while you're in class
-- 🔔 Sound or vibrate toggle in Settings
-- 🌐 New landing page — classpulse.vercel.app
-- 🔄 Faster update checker with fallback sources
-- ⚠️ PLEASE MAKE A BACKUP FIRST BEFORE UPDATING THANK YOU
+version=1.2.1
+download=https://github.com/JedTipudan/classpulse-privacy/releases/download/v1.2.1/app-release.apk
+- 📷 Fixed COR scan — now shows course names instead of codes
+- 🔙 Fixed back button black screen on scan page
+- 🌐 Fixed language switching — Filipino, Bisaya & all languages now apply instantly
+- ✨ Smoother animations on scan results
+- ✏️ Added edit button to fix subject names after scanning
